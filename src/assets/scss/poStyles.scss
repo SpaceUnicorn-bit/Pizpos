@@ -1,0 +1,35 @@
+@import 'poStyles/variables';
+@import 'poStyles/variables';
+@import 'poStyles/mixins';
+
+// Plugins CSS
+@import "poStyles/plugins/plugin-animate-bootstrap-notify";
+@import "poStyles/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "poStyles/buttons";
+@import "poStyles/inputs";
+@import "poStyles/typography";
+@import "poStyles/misc";
+@import "poStyles/checkboxes-radio";
+
+// components
+@import "poStyles/navbar";
+@import "poStyles/page-header";
+@import "poStyles/dropdown";
+@import "poStyles/alerts";
+@import "poStyles/images";
+@import "poStyles/nucleo-outline";
+@import "poStyles/tables";
+@import "poStyles/sidebar-and-main-panel";
+@import "poStyles/footers";
+@import "poStyles/fixed-plugin";
+
+// cards
+@import "poStyles/cards";
+@import "poStyles/cards/card-plain";
+@import "poStyles/cards/card-chart";
+@import "poStyles/cards/card-user";
+@import "poStyles/cards/card-map";
+
+@import "poStyles/responsive";
